@@ -1,2 +1,3 @@
-# springnews
-2차미니프로젝트(springnews_post-it) local git
+# 2nd_Project_Spring
+2차 미니프로젝트 포스트잇 (Spring Framework)
+스프링 프레임워크 기반 뉴스기사 관리 사이트입니다.
