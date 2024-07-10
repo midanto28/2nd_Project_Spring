@@ -1,10 +1,23 @@
 # 2nd_Project_Spring
 <br>
-2차 미니프로젝트 포스트잇 (Spring Framework)
+<h3>2차 미니프로젝트 포스트잇 (Spring Framework)</h3>
+ - Spring Framework & MyBatis & JSP & OracleDB 기반 뉴스기사 관리 사이트입니다.
 <br><br>
-Spring Framework와 MyBatis 기반 JSP로 뷰 구현, OracleDB 활용
-<br><br>
-뉴스기사 관리 사이트입니다.
+
+ - 총 인원 : 5명
+ - 담당 역할과 기능 : <br>
+   <h4>1. DB 관리, ERD 작성 </h4>
+   <h4>2. 수정/삭제 기능 및 페이지 구현</h4>
+   - 상세1<br>
+   - 상세2<br>
+   - 상세3<br>
+
+   <h4>3. NAVER검색 API 연동 및 전체 CSS 협업</h4>
+   - 상세1<br>
+   - 상세2<br>
+   - 상세3<br>
+
+ <br>
 <br>
 <br>
 <h3>사용 기술</h3>
